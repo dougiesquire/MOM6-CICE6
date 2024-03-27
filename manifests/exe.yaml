@@ -2,7 +2,7 @@ format: yamanifest
 version: 1.0
 ---
 work/access-om3-MOM6-CICE6:
-  fullpath: /g/data/ik11/spack/0.21.2/opt/linux-rocky8-cascadelake/intel-2021.10.0/access-om3-d6813d6b9e1df560ac3f6ba6a605daab9cfd9569_main-5pjh7z2/bin/access-om3-MOM6-CICE6
+  fullpath: /g/data/tm70/ds0092/model/access-om3/Release/bin/access-om3-MOM6-CICE6
   hashes:
-    binhash: 4b05dc495b4fe5ce2e71fa9a7ff62f72
-    md5: ba3b677b7c386c09e6430617c26cab58
+    binhash: edee43f1a6d8731c16284d349a83b068
+    md5: 553777f4bdfb8b877f80d7b97ef0e634
