@@ -27,6 +27,8 @@ Currently the following configurations are available:
 
 - [`1deg_jra55do_ryf`](https://github.com/COSIMA/MOM6-CICE6/tree/1deg_jra55do_ryf)
 - [`1deg_jra55do_iaf`](https://github.com/COSIMA/MOM6-CICE6/tree/1deg_jra55do_iaf)
+- [`1deg_jra55do_ryf_wombatlite`](https://github.com/COSIMA/MOM6-CICE6/tree/1deg_jra55do_ryf_wombatlite)
+- [`025deg_jra55do_ryf`](https://github.com/COSIMA/MOM6-CICE6/tree/025deg_jra55do_ryf)
 
 **Note that the [`main`](https://github.com/COSIMA/MOM6-CICE6/tree/main) branch
 does not store any configuration, only some documentation.**
@@ -40,6 +42,15 @@ for testing ACCESS-OM3:
 
 These configurations should **not** be used for production runs.
 
+
+## Comparison table
+
+- [`1deg_jra55do_ryf`➡️`1deg_jra55do_iaf`](https://github.com/COSIMA/MOM6-CICE6/compare/1deg_jra55do_ryf..1deg_jra55do_iaf)
+- [`1deg_jra55do_ryf`➡️`1deg_jra55do_ryf_wombatlite`](https://github.com/COSIMA/MOM6-CICE6/compare/1deg_jra55do_ryf..1deg_jra55do_ryf_wombatlite)
+- [`1deg_jra55do_ryf`➡️`025deg_jra55do_ryf`](https://github.com/COSIMA/MOM6-CICE6/compare/1deg_jra55do_ryf..025deg_jra55do_ryf)
+- [`1deg_jra55do_iaf`➡️`1deg_jra55do_ryf_wombatlite`](https://github.com/COSIMA/MOM6-CICE6/compare/1deg_jra55do_iaf..1deg_jra55do_ryf_wombatlite)
+- [`1deg_jra55do_iaf`➡️`025deg_jra55do_ryf`](https://github.com/COSIMA/MOM6-CICE6/compare/1deg_jra55do_iaf..025deg_jra55do_ryf)
+- [`1deg_jra55do_ryf_wombatlite`➡️`025deg_jra55do_ryf`](https://github.com/COSIMA/MOM6-CICE6/compare/1deg_jra55do_ryf_wombatlite..025deg_jra55do_ryf)
 
 ## Setting up an experiment
 
